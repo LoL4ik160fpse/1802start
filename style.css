@@ -13,7 +13,7 @@
   width: 100px;
   height: 100px;
   background-color: lightcoral;
-  position: relative;
+  position: absolute;
   top: 50px; /* Moves the element 50px down from its original position */
   left: 50px; /* Moves the element 50px right from its original position */
 }
